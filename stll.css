@@ -1,0 +1,59 @@
+body
+{
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 20px;
+    font-family: Constantia;
+}
+
+.container
+{
+    background-color: black;
+    border-radius: 10px;
+    padding: 70px;
+}
+
+.form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 10px;
+    font-family: Constantia;
+    font-weight: bold;
+}
+
+button
+{
+    background-color: maroon;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 5px;
+    font-size: 18px;
+    color: white;
+    font-family: Constantia;
+}
+
+h2
+{
+    justify-content: center;
+    text-align: center;
+}
+
+a{
+    color:maroon;
+    font-family: Constantia;
+}
+h5{
+    color:red;
+}
